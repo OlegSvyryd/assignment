@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: assignment
+server:
+  port: 0 #0 means random port
